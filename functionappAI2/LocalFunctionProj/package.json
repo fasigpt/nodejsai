@@ -1,0 +1,14 @@
+{
+  "name": "",
+  "version": "",
+  "description": "",
+  "scripts": {
+    "test": "echo \"No tests yet...\""
+  },
+  "author": "",
+  "dependencies": {
+    "applicationinsights": "^1.8.7",
+    "axios": "^0.21.1",
+    "mysql": "^2.18.1"
+  }
+}
